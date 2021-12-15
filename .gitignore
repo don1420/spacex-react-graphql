@@ -24,8 +24,5 @@ yarn-debug.log*
 yarn-error.log*
 
 /.idea/
-/client/README.md
 /client/node_modules/
-/client/package-lock.json
-/client/package.json
 
